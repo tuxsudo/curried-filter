@@ -1,6 +1,6 @@
 {
   "name": "curried-filter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A curried application of [].filter",
   "main": "common.js",
   "jsnext:main": "index.js",
@@ -30,7 +30,7 @@
     "tape": "^4.2.2"
   },
   "dependencies": {
-    "instant-curry": "^1.0.0"
+    "instant-curry": "^1.2.0"
   },
   "browserify": {
     "transform": [
